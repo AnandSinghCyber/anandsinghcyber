@@ -17,7 +17,7 @@ I am a dedicated cybersecurity student focused on mastering network security, Li
 Check out my real-time progress on TryHackMe:
 
 <a href="https://tryhackme.com/p/anandsinghcyber">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/anandsinghcyber.png" alt="TryHackMe Badge">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2237293" style='border:none;'></iframe>">
 </a>
 
 ---
