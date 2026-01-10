@@ -5,20 +5,18 @@ I am a dedicated cybersecurity student focused on mastering network security, Li
 
 ---
 
+### 📊 My TryHackMe Progress
+<div align="left">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2237293" width="400" height="150" style="border:none;"></iframe>
+</div>
+
+---
+
 ### 🛠️ Technical Interests
 - 🌐 **Network Security:** Understanding protocols, traffic analysis, and defense.
 - 🐧 **Linux:** Command line mastery and system administration.
 - 🔓 **Ethical Hacking:** Vulnerability assessment and CTF challenges.
 - 🐍 **Python:** Automating security tasks and scripting.
-
----
-
-### 📊 TryHackMe Stats
-Check out my real-time progress on TryHackMe:
-
-<a href="https://tryhackme.com/p/anandsinghcyber">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2237293" style='border:none;'></iframe>">
-</a>
 
 ---
 
