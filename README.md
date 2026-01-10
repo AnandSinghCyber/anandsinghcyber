@@ -6,9 +6,9 @@ I am a dedicated cybersecurity student focused on mastering network security, Li
 ---
 
 ### 📊 My TryHackMe Progress
-<div align="left">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2237293" width="400" height="150" style="border:none;"></iframe>
-</div>
+<a href="https://tryhackme.com/p/anandsinghcyber">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/anandsinghcyber.png" alt="TryHackMe Badge" />
+</a>
 
 ---
 
