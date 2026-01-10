@@ -7,7 +7,7 @@ I am a dedicated cybersecurity student focused on mastering network security, Li
 
 ### 📊 My TryHackMe Progress
 <a href="https://tryhackme.com/p/anandsinghcyber">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/anandsinghcyber.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/AnandSinghCyber.png" alt="Try Hackme Badge" />
 </a>
 
 ---
