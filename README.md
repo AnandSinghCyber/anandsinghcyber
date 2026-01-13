@@ -27,9 +27,8 @@ I am a dedicated cybersecurity student focused on mastering network security, Li
 ---
 
 ### ⚡ My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandsinghcyber&show_icons=true&theme=dark" alt="Anand's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsinghcyber&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandsinghcyber&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandsinghcyber&layout=compact&theme=dark)
+
 
 *"The more you sweat in peace, the less you bleed in war."*
